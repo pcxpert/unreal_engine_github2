@@ -1,0 +1,10 @@
+# unreal ignore folders
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+*.VC.db
+backup/
+BuildingEscape/.vs/
